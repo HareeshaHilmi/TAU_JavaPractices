@@ -11,4 +11,6 @@ Chapter 5 - Methods
 
 Chapter 6 - Classes and Objects
 
-Chapter  - Arrays
+Chapter 7 - Arrays
+
+Chapter 8 - Data Types
