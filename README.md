@@ -14,3 +14,5 @@ Chapter 6 - Classes and Objects
 Chapter 7 - Arrays
 
 Chapter 8 - Data Types
+
+Chapter 9 - Inheritance
