@@ -1,5 +1,5 @@
 # TAU_JavaPractices
-Test Automation University Java course practice codes.
+Test Automation University Java Programming course practice codes.
 
 Chapter 2 - Scanner class
 
@@ -16,3 +16,13 @@ Chapter 7 - Arrays
 Chapter 8 - Data Types
 
 Chapter 9 - Inheritance
+
+Chapter 10 - Polymorphism
+
+Chapter 11 - Abstraction and Interfaces
+
+Chapter 12 - Collection Framework
+
+Chapter 13 - Exceptions
+
+Chapter 14 - Java for Test Automation
